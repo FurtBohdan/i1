@@ -1,0 +1,14 @@
+td, th{
+    border: 1px solid rgba(4, 39, 136, 0.555);
+    color: rgba(132, 12, 168, 0.932);
+    width: 50px;
+    height: 50px;
+}
+table{
+    border-collapse: collapse;
+    background: linear-gradient(to right, rgba(196, 75, 201, 0.589), rgba(70, 53, 223, 0.397));
+}
+td:hover{
+    border:5px solid rgb(16, 2, 143)
+
+}
